@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(29,24): error C2131: expression did not evaluate to a constant
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(29,24): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(29,24): message : see usage of 'windows_size'
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(36,33): error C3863: array type 'int [windows_size]' is not assignable
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(93,24): error C2131: expression did not evaluate to a constant
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(93,24): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(93,24): message : see usage of 'windows_size'
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(100,33): error C3863: array type 'int [windows_size]' is not assignable
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(157,24): error C2131: expression did not evaluate to a constant
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(157,24): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(157,24): message : see usage of 'windows_size'
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(164,33): error C3863: array type 'int [windows_size]' is not assignable
+C:\Users\joene\source\repos\DataCommPA3\DataCommPA3\Source.cpp(189,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
